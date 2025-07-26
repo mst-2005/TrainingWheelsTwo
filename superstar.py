@@ -8,3 +8,7 @@ def add(a, b):
     return a + b
 
 # This is a comment line
+# This is a subtraction function
+def subtract(a, b):
+    """Function to subtract two numbers."""
+    return a - b
